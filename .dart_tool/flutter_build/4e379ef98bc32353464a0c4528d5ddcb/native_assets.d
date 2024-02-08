@@ -1,0 +1,1 @@
+ /home/manish/StudioProjects/mobigic/.dart_tool/flutter_build/4e379ef98bc32353464a0c4528d5ddcb/native_assets.yaml: 

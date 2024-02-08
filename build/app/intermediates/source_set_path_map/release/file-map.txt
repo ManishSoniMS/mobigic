@@ -1,0 +1,14 @@
+com.manishsoni.mobigic.app-jetified-annotation-experimental-1.1.0-0 /home/manish/.gradle/caches/transforms-3/02315cc9f75263553d2042718fc375ee/transformed/jetified-annotation-experimental-1.1.0/res
+com.manishsoni.mobigic.app-jetified-window-1.0.0-beta04-1 /home/manish/.gradle/caches/transforms-3/076eb9235982ee06112d76594ea8585f/transformed/jetified-window-1.0.0-beta04/res
+com.manishsoni.mobigic.app-jetified-window-java-1.0.0-beta04-2 /home/manish/.gradle/caches/transforms-3/99750bb863b6fe460a7b5da8686e778d/transformed/jetified-window-java-1.0.0-beta04/res
+com.manishsoni.mobigic.app-core-1.6.0-3 /home/manish/.gradle/caches/transforms-3/d08c73bfb05384f2e52578171dbd141e/transformed/core-1.6.0/res
+com.manishsoni.mobigic.app-main-4 /home/manish/StudioProjects/mobigic/android/app/src/main/res
+com.manishsoni.mobigic.app-release-5 /home/manish/StudioProjects/mobigic/android/app/src/release/res
+com.manishsoni.mobigic.app-pngs-6 /home/manish/StudioProjects/mobigic/build/app/generated/res/pngs/release
+com.manishsoni.mobigic.app-resValues-7 /home/manish/StudioProjects/mobigic/build/app/generated/res/resValues/release
+com.manishsoni.mobigic.app-rs-8 /home/manish/StudioProjects/mobigic/build/app/generated/res/rs/release
+com.manishsoni.mobigic.app-mergeReleaseResources-9 /home/manish/StudioProjects/mobigic/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.manishsoni.mobigic.app-mergeReleaseResources-10 /home/manish/StudioProjects/mobigic/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.manishsoni.mobigic.app-merged_res-11 /home/manish/StudioProjects/mobigic/build/app/intermediates/merged_res/release
+com.manishsoni.mobigic.app-packaged_res-12 /home/manish/StudioProjects/mobigic/build/path_provider_android/intermediates/packaged_res/release
+com.manishsoni.mobigic.app-packaged_res-13 /home/manish/StudioProjects/mobigic/build/shared_preferences_android/intermediates/packaged_res/release
